@@ -1,6 +1,6 @@
 [Unit]
 Description=Python Proxy Mod By Etilssh
-Documentation=https://t.me/FER1DEV
+Documentation=https://wa.me/6287721815317
 After=network.target nss-lookup.target
 
 [Service]
