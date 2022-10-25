@@ -70,7 +70,7 @@ chmod +x /usr/local/bin/ws-tls
 cat > /etc/systemd/system/ws-tls.service << END
 [Unit]
 Description=Python Proxy Mod By EtilSsh
-Documentation=https://t.me/Etilssh
+Documentation=https://wa.me/6287721815317
 After=network.target nss-lookup.target
 
 [Service]
@@ -79,7 +79,7 @@ User=root
 CapabilityBoundingSet=CAP_NET_ADMIN CAP_NET_BIND_SERVICE
 AmbientCapabilities=CAP_NET_ADMIN CAP_NET_BIND_SERVICE
 NoNewPrivileges=true
-ExecStart=/usr/bin/python -O /usr/local/bin/ws-tls 700
+ExecStart=/usr/bin/python -O /usr/local/bin/ws-tls 443
 Restart=on-failure
 
 [Install]
