@@ -134,7 +134,7 @@ echo -e " [${GREEN}07${NC}]${BLUE} •${NC} Add Subdomain Vps $NC   [${GREEN}15$
 echo -e " [${GREEN}08${NC}]${BLUE} •${NC} Renew Certv2ray $NC     [${GREEN}16${NC}]${BLUE} • ${NC}Kluar $NC"
 echo -e " ${BLUE}"
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "                  SCRIPT ARYA BLITAR                       \E[0m"
+echo -e "                     SCRIPT ARYA BLITAR                       \E[0m"
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 
 echo -e ""
